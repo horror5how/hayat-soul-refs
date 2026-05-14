@@ -1,0 +1,38 @@
+{
+  "_purpose": "Real photos of Hayat Amin for meethayat.com blog hero images. Use these instead of AI-rendered faces. Match topic_keywords to the post topic, fall back to default.",
+  "_dimensions": "All images are 1600x893 (16:9) — exact aspect ratio expected by meethayat.com Top-5 listicle hero <img>.",
+  "_rule": "NEVER use Higgsfield / Nano Banana / Soul / any AI face generator for Hayat. Real photos only. Source: ~/Documents/Hayat Amin information/.",
+  "default": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/formal_bw_1600x893.jpg",
+  "photos": [
+    {
+      "id": "formal_bw",
+      "url": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/formal_bw_1600x893.jpg",
+      "description": "Black-and-white classic portrait, suit, professional. Default for patent / IP / fractional C-suite / finance / advisor topics.",
+      "topic_keywords": ["patent", "ip", "intellectual property", "data strategist", "cfo", "fractional", "advisor", "exit", "fundraising", "valuation", "board", "ceo"]
+    },
+    {
+      "id": "formal_white",
+      "url": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/formal_white_1600x893.jpg",
+      "description": "Formal portrait on white background. Clean, corporate. For consulting, strategy, COO topics.",
+      "topic_keywords": ["consultant", "consulting", "strategy", "coo", "operations", "business strategist"]
+    },
+    {
+      "id": "nyc",
+      "url": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/nyc_1600x893.jpg",
+      "description": "NYC portrait, urban, modern. For tech / AI / startup / SaaS topics.",
+      "topic_keywords": ["ai agent", "ai operator", "saas", "tech", "startup", "claude code", "anthropic", "automation"]
+    },
+    {
+      "id": "speaking_event",
+      "url": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/speaking_event_1600x893.jpg",
+      "description": "Speaking on stage. For speaker, keynote, future-of-work, human purpose, conference topics.",
+      "topic_keywords": ["speaker", "keynote", "future of work", "human purpose", "conference", "talk"]
+    },
+    {
+      "id": "portrait_modern",
+      "url": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/portrait_modern_1600x893.jpg",
+      "description": "Modern portrait with background. For coach, founder, growth, advisor topics.",
+      "topic_keywords": ["founder coach", "founder", "growth", "ceo coach", "mentor"]
+    }
+  ]
+}
