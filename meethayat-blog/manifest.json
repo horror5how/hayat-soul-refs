@@ -223,6 +223,16 @@
         "hero",
         "wide"
       ]
+    },
+    {
+      "id": "banner_landscape_2",
+      "url": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/banner_landscape_02.jpg",
+      "description": "Wide banner / landscape photo. (variant 2)",
+      "topic_keywords": [
+        "banner",
+        "hero",
+        "wide"
+      ]
     }
   ]
 }
