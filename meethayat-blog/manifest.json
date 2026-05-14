@@ -2,7 +2,7 @@
   "_purpose": "Real photos of Hayat Amin for meethayat.com blog hero images. Use these instead of AI-rendered faces. Match topic_keywords to the post topic, fall back to default.",
   "_dimensions": "Photos are resized to max 1600px long edge (aspect preserved). Legacy entries are 1600x893 (16:9).",
   "_rule": "NEVER use Higgsfield / Nano Banana / Soul / any AI face generator for Hayat. Real photos only. Source: ~/Documents/Hayat Amin information/.",
-  "default": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/formal_bw_02.jpg",
+  "default": "https://raw.githubusercontent.com/horror5how/hayat-soul-refs/main/meethayat-blog/formal_bw_1600x893.jpg",
   "photos": [
     {
       "id": "formal_bw",
